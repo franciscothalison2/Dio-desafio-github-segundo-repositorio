@@ -1,0 +1,15 @@
+Aqui vou listar o passo a passo que eu utilizei para fazer o primeiro desafio da Dio: 
+S.O(Linux)
+
+    1° Apertei : ctrl + alt + t >>> para abrir o terminal do Linux
+    
+    2° Digitei o comando ls >>> para minha orientação das pastas do sistema operacional
+    3° Criei uma pasta com o nome Desafio1_Dio com o comando ( mkdir Desafio1_Dio).
+    4̣̣° digitei ls, para ter a certeza de que a minha pasta foi criada.
+    5° entrei na pasta pelo comando cd Desafio1_Dio.
+    6° iniciei o git dentro da pasta com o comando git init, que vai criar uma pasta oculta chamada de git e vai criar o nosso branch master
+    7° pelo que estudei, alguns devs chamam a branch master de main, é algo que o próprio git sinaliza, então precisei muda
+    8° git branch -M "main"
+    9° criei um arquivo Readme.md onde eu coloquei algumas informações sobre a atividade, é ela que será exibida no github, como descrição do repositório
+    10° echo desafio 01 > Readme.md
+                        
